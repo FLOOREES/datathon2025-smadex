@@ -7,8 +7,10 @@ requires-python = ">=3.12"
 dependencies = [
     "dask>=2025.11.0",
     "ipykernel>=7.1.0",
+    "lightgbm>=4.6.0",
     "matplotlib>=3.10.7",
     "numpy>=2.3.4",
     "pandas>=2.3.3",
     "pyarrow>=22.0.0",
+    "scikit-learn>=1.7.2",
 ]
